@@ -34,7 +34,7 @@ request
 可能的客户端实现如下:
 
 ```
-YCClient.post(“path/to/api”, {data: data}, callback);
+Client.post(“path/to/api”, {data: data}, callback);
 ```
 
 response
@@ -49,7 +49,7 @@ response
 
 2、数据编码，压缩，加密
 
-此处的技术选型，以及相应的算法选择，大家可以根据自己已有的只是进行自行判定
+此处的技术选型，以及相应的算法选择，大家可以根据自己已有的知识进行自行判定
   
 3、状态码
 

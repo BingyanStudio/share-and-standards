@@ -7,4 +7,4 @@ share-and-standards
 
 [应用Api设计草稿](https://github.com/BingyanStudio/share-and-standards/blob/master/App-Api-Design-Draft.md) 
 
-[通用Android客户端分包结构](https://github.com/BingyanStudio/share-and-standards/blob/Android-Client-Package-Doc.md)
+[通用Android客户端分包结构](https://github.com/BingyanStudio/share-and-standards/blob/master/Android-Client-Package-Doc.md)
